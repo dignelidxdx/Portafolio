@@ -1,2 +1,2 @@
-# Portafolio
-Muestra de mis habilidades con HTML y CSS
+# Portfolio
+I show you my HTML5 and CSS3 skills
